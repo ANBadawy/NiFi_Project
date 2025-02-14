@@ -15,7 +15,7 @@ This project leverages Apache NiFi, a powerful data integration tool, to automat
 
 # *Methodology*:
 
-- **Data Ingestion**: Configure Apache NiFi to collect files from diverse sources (e.g., local file systems, cloud storage, or APIs).
+- **Data Ingestion**: Configure Apache NiFi to collect files from diverse sources (e.g., local file systems, or APIs).
 
 - **Data Transformation**: Use NiFi processors to clean, transform, and enrich the data (e.g., filtering, splitting, merging, or converting formats).
 
