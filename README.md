@@ -1,6 +1,9 @@
 # *Project Overview*:
 This project leverages Apache NiFi, a powerful data integration tool, to automate the ingestion, processing, and routing of multiple files. The processed data is then published to a Kafka topic, enabling real-time data streaming and integration with downstream systems. The project demonstrates the capabilities of Apache NiFi in handling complex data workflows and showcases its seamless integration with Apache Kafka for efficient data pipeline management.
 
+### Explanation Video
+Watch the explanation video here:  [Explanation Video](https://drive.google.com/file/d/1pMVSg0nDaMoOwZxKU6yoUr18LEBzZdIw/view?usp=sharing)
+
 # *Key Objectives*:
 
  - **Data Ingestion**: Use Apache NiFi to ingest multiple files from various sources, ensuring reliable and scalable data collection.
