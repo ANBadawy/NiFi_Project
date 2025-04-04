@@ -32,4 +32,4 @@ Watch the explanation video here:  [Explanation Video](https://drive.google.com/
 This project demonstrates the effectiveness of Apache NiFi in building robust, automated data pipelines for file processing and real-time data streaming. By integrating NiFi with Kafka, it provides a scalable and efficient solution for handling large volumes of data, enabling seamless integration with modern data-driven architectures.
 
 - **Explanation Videos**:
-  - URL: 
+  - URL: [Explanation Video](https://drive.google.com/file/d/1pMVSg0nDaMoOwZxKU6yoUr18LEBzZdIw/view?usp=drive_link)
